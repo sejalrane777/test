@@ -1,0 +1,16 @@
+
+ @media (max-width:767.98px) { 
+    .card{
+        width: 350px;
+        /* margin: 30px auto; */
+       
+    }
+
+ }
+ @media (min-width:  768px) { 
+     .card{
+         width: 700px;
+         /* margin: 30px auto; */
+     }
+  }
+ 
